@@ -1,4 +1,4 @@
-FROM nginx:1.14.2
+FROM nginx:1.14-alpine
 
 MAINTAINER Hoang Vuong <vuonghq3@fpt.com.vn>
 
